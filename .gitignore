@@ -25,3 +25,6 @@ replay_pid*
 
 # txt #
 *.txt
+
+# test file
+TestMain.java
