@@ -26,6 +26,5 @@ replay_pid*
 # txt #
 *.txt
 
-# test file
-TestMain.java
-TetrisCursorExample.java
+# test folder
+tetris_test/
