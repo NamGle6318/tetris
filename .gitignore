@@ -28,3 +28,6 @@ replay_pid*
 
 # test folder
 tetris_test/
+
+# flow chart
+*.drawio
